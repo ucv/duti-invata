@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Inverseaza_propozitia.dir/main.cpp.o  -o Inverseaza_propozitia 
