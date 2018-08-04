@@ -140,6 +140,30 @@ int main() {
     }
 
 
+    cout << "=======================DUTI E UN BOU=================\n";
+
+
+    for (int k = 0; k <names_length ; ++k) {
+//        cout << names [k][0]<<endl;
+        if ( names[k][0] == 'A' ){
+            cout << names[k] << endl;
+        }
+
+
+    }
+//    cout << "Afisarea numele primelor 4 persoane:\n";
+//    for (int iterator_nume = 0; iterator_nume < 4; ++iterator_nume) {
+//        cout << iterator_nume << ":[" << endl << '\t';
+//        for (int iterator_nume_caracter = 0; iterator_nume_caracter < names[iterator_nume].length() + 1; ++iterator_nume_caracter) {
+//            cout << iterator_nume_caracter << ":[" <<names[iterator_nume][iterator_nume_caracter] <<"]" ;
+//            if(iterator_nume_caracter < names[iterator_nume].length() -1){
+//                cout <<',';
+//            }
+//        }
+//        cout<< endl << "]" << endl;
+//    }
+
+
 //        cout << test1 << " > " << test2 << " = " << test1.compare(test2) << endl;
 
 
