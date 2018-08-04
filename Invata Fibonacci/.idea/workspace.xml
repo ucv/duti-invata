@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="Inverseaza_propozitia" targetName="Inverseaza_propozitia" />
+      <config projectName="Invata_Fibonacci" targetName="Invata_Fibonacci" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42f5e7b6-3e87-4fc1-800c-2717cb907d66" name="Default" comment="" />
+    <list default="true" id="16f99cad-e702-457c-b47b-fb0bfa6ec205" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,15 +32,12 @@
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -63,7 +60,6 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -90,12 +86,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Inverseaza_propozitia">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all" />
-    <configuration name="Inverseaza_propozitia" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Inverseaza_propozitia" TARGET_NAME="Inverseaza_propozitia" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Inverseaza_propozitia" RUN_TARGET_NAME="Inverseaza_propozitia" />
+  <component name="RunManager" selected="Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Invata_Fibonacci" TARGET_NAME="Invata_Fibonacci" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Invata_Fibonacci" RUN_TARGET_NAME="Invata_Fibonacci" />
+    <configuration name="Invata_Fibonacci" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Invata_Fibonacci" TARGET_NAME="Invata_Fibonacci" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Invata_Fibonacci" RUN_TARGET_NAME="Invata_Fibonacci" />
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.Inverseaza_propozitia" />
+      <item itemvalue="Application.Invata_Fibonacci" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -103,28 +99,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="42f5e7b6-3e87-4fc1-800c-2717cb907d66" name="Default" comment="" />
-      <created>1533398242725</created>
+      <changelist id="16f99cad-e702-457c-b47b-fb0bfa6ec205" name="Default" comment="" />
+      <created>1533398466154</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1533398242725</updated>
-      <workItem from="1533398244312" duration="779000" />
+      <updated>1533398466154</updated>
+      <workItem from="1533398467453" duration="556000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="779000" />
+    <option name="totallyTimeSpent" value="556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947807" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947807" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32942432" />
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32942432" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -151,7 +148,7 @@
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>

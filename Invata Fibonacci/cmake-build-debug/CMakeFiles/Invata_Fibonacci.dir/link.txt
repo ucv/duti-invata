@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Invata_Fibonacci.dir/main.cpp.o  -o Invata_Fibonacci 
