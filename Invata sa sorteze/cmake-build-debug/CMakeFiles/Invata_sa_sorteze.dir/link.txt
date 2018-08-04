@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Invata_sa_sorteze.dir/main.cpp.o  -o Invata_sa_sorteze 

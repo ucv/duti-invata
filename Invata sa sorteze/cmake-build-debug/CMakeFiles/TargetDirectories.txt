@@ -1,0 +1,3 @@
+/mnt/d/work/c++/duti/Invata sa sorteze/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/work/c++/duti/Invata sa sorteze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/work/c++/duti/Invata sa sorteze/cmake-build-debug/CMakeFiles/Invata_sa_sorteze.dir

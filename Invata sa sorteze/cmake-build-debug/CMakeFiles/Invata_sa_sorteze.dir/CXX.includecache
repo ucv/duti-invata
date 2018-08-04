@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/work/c++/duti/Invata sa sorteze/main.cpp
+iostream
+-
+string.h
+/mnt/d/work/c++/duti/Invata sa sorteze/string.h
+
