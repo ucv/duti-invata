@@ -8,10 +8,13 @@ int main() {
     int suma;
     cout << casuta_zero << endl;
     cout << casuta_unn << endl;
-    for (int i = 0; i < 20; ++i) {
+    // i=0; 0->20 ; ++i;
+    for (int i = 0; i < 20; ++i) {      
+        //Metoda canilor   
         suma = casuta_zero + casuta_unn;
         casuta_zero = casuta_unn;
         casuta_unn = suma;
+        
         cout << suma << endl;
     }
 
