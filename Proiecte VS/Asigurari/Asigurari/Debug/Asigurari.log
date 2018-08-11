@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\uvale\source\repos\asigurari\asigurari\source.cpp(122): warning C4018: '<=': signed/unsigned mismatch
+c:\users\uvale\source\repos\asigurari\asigurari\source.cpp(101): warning C4715: 'getMenuPolitaTextById': not all control paths return a value
+  Asigurari.vcxproj -> C:\Users\uvale\source\repos\Asigurari\Debug\Asigurari.exe
